@@ -43,4 +43,21 @@ By the way, I just made a new branch
 I wonder what will happen when I commit and push to GitHub?
 Will GitHub get this branch too?
 
+    $ git commit -a
+      <type in commit message and save and quit>
+    $ git push
+
+The commit went through fine,
+but aha, when I did push this happened:
+
+    fatal: The current branch new_branch has no upstream branch.
+    To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin new_branch
+
+So git isn't expecting me to push this branch to the remote
+unless I explicitly configure it.
+I'll try the command they recommend.
+
+    $ git push --set-upstream origin new_branch
 
