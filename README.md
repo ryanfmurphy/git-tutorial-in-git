@@ -37,3 +37,10 @@ go to your Command Line and type this at your keyboard:
 
     git clone https://github.com/ryanfmurphy/git-tutorial-in-git.git
 
+
+By the way, I just made a new branch
+------------------------------------
+I wonder what will happen when I commit and push to GitHub?
+Will GitHub get this branch too?
+
+
