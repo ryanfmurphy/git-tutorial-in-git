@@ -6,6 +6,9 @@ Hello and welcome.
 This tutorial is to help people
 get more acquainted with the versioning tool known as `git`.
 
+**This tutorial is a work-in-progress.
+It is not yet a finished product ready to teach people git!**
+
 There are lots of git tutorials out there,
 but what makes this one different is that
 the whole tutorial is a git repository
