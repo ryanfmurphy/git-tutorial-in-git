@@ -61,3 +61,23 @@ I'll try the command they recommend.
 
     $ git push --set-upstream origin new_branch
 
+    Counting objects: 9, done.
+    Delta compression using up to 8 threads.
+    Compressing objects: 100% (9/9), done.
+    Writing objects: 100% (9/9), 1.40 KiB | 0 bytes/s, done.
+    Total 9 (delta 3), reused 0 (delta 0)
+    To git@github.com:ryanfmurphy/git-tutorial-in-git.git
+     * [new branch]      new_branch -> new_branch
+    Branch new_branch set up to track remote branch new_branch from origin.
+
+Cool, it worked!  Now when I go to GitHub I see
+a notification that they got the new branch:
+
+    ![](/images/new-branch.png)
+
+...and when I go down to "Branch: master" and click
+I get a menu of all the branches to choose from:
+
+    ![](/images/new-branch-2.png)
+
+
