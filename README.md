@@ -73,11 +73,11 @@ I'll try the command they recommend.
 Cool, it worked!  Now when I go to GitHub I see
 a notification that they got the new branch:
 
-    ![](/images/new-branch.png)
+![](/images/new-branch.png)
 
 ...and when I go down to "Branch: master" and click
 I get a menu of all the branches to choose from:
 
-    ![](/images/new-branch-2.png)
+![](/images/new-branch-2.png)
 
 
