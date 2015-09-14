@@ -35,5 +35,5 @@ To clone the repository,
 navigate to a directory where you'd like to put the code,
 go to your Command Line and type this at your keyboard:
 
-    git clone https://www.github.com/ryanfmurphy/git_tutorial_in_git
+    git clone https://github.com/ryanfmurphy/git-tutorial-in-git.git
 
